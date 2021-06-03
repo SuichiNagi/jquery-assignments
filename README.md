@@ -1,12 +1,12 @@
 # jquery-assignments 
 
--jQuery Functions
--Dissapearing Ninja
--Ninja to Cat
--Debugging Jquery
--Hover In/Out
--Color Clicker
--Sortable Ninja
--Accordion and Tab
--Date Validations
+-jQuery Functions <br>
+-Dissapearing Ninja <br>
+-Ninja to Cat <br>
+-Debugging Jquery <br>
+-Hover In/Out <br>
+-Color Clicker <br>
+-Sortable Ninja <br>
+-Accordion and Tab <br>
+-Date Validations <br>
 -Other jQuery Libraries
