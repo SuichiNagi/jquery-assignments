@@ -1,0 +1,27 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body{
+  background: url('type-r/TYPE-R-EXTERIOR-1.jpg');
+  background-size: cover !important;
+}
+
+h1{
+  color: white;
+  padding: 15px;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+div{
+  text-align: center;
+}
+  .cont-img img {
+    width: 400px;
+  }
+
+  .ui-state-active{
+    background: rgb(21,24,29)!important;
+  }
