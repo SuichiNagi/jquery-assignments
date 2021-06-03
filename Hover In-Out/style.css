@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: rgba(0, 0, 0, 0.836);
+}
+
+section{
+    padding-top: 20px;
+    height: 450px;
+    margin-top: 150px;
+    font-family: sans-serif;
+    text-align: center;
+    background: rgba(14, 12, 12, 0.651);
+}
+    h1{
+        font-size: 50px;
+        margin: 25px 0;
+        color: crimson;
+    }
+    img{
+        border: 5px solid crimson;
+        margin:10px;
+    }

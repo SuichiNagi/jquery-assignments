@@ -1,0 +1,50 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+section{
+    min-height: 900px;
+    width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+}
+    div{
+        position: relative;
+        border-bottom: 5px solid black;
+        height: 300px;
+        padding: 15px;
+    }
+        h1{
+            font-size: 35px
+        }
+        p{
+            font-size: 25px;
+        }
+        img{
+            position: absolute;
+            width: 350px;
+            right: 0;
+            top: 10px;
+        }
+        button{
+            margin: 85px 0 0;
+            display: block;
+            cursor: pointer;
+            padding: 10px;
+            background: cyan;
+            border-radius: 9px;
+            box-shadow: rgba(0, 0, 0, 0.404) 3px 3px;
+            font-size: 15;
+            font-weight: 900
+        }
+
+        .out, .in{
+            display: inline-block;
+            margin-top: 20px;
+        }
+
+        .red{
+            background: red;
+        }
