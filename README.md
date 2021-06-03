@@ -1,4 +1,4 @@
-#jquery-assignments 
+# jquery-assignments 
 
 -jQuery Functions
 -Dissapearing Ninja
